@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anchit Kumar
 - 👀 I’m interested in ... Coding, Gaming, and Youtube!
-- 🌱 I’m currently learning ... OS Design
-- 💞️ I’m looking to collaborate on ... Lots of projects in the near furture!
+- 🌱 I’m currently learning ... OS Design, Networking
+- 💞️ I’m looking to collaborate on ... Lowkey any reasearch, please reach out 😭
 - 📫 How to reach me ... Email: kanchit430@gmail.com
