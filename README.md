@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Anchit Kumar
-- 👀 I’m interested in ... Coding, Gaming, and Youtube!
-- 🌱 I’m currently learning ... OS Design, Networking
+- 👀 I’m interested in ... Coding, Physics, Video Games.
+- 🌱 I’m currently learning ... Computer Architecture, Networking
 - 💞️ I’m looking to collaborate on ... Lowkey any reasearch, please reach out 😭
 - 📫 How to reach me ... Email: kanchit430@gmail.com
+- Skills: Python (Syntax + Basic Django + Basic Apache Spark), C++ & C syntax, Java (Syntax + Applets + Servlets&JSP), Webpage (HTML, CSS, React JS).
